@@ -1,0 +1,71 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+
+ul {
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+li a {
+  color: #666;
+}
+
+h1 {
+  color: DarkOliveGreen;
+  font-size: 100px;
+}
+
+body {
+  background-color: MintCream;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p.solid {
+  border-style: solid;
+}
+
+h1 {
+  text-shadow: 2px 2px black;
+}
+
+p {
+  text-shadow: 2px 2px black;
+}
+
+img.solid {
+  outline-style: solid;
+}
+
+p.outset {
+  border-style: outset;
+}
+
+.p1 {
+  font-family: "Copperplate", fantasy;
+}
